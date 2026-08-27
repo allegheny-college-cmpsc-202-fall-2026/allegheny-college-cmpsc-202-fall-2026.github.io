@@ -7,10 +7,10 @@ description: An overview of our course schedule.
 # Schedule
 
 
-| Week | Link   | Date    | Topic                        | Reading and Assignments   |
-|:----:|:------:|:-----:  |:-----------------------------|:--------------------------|
-| 1    |        | T 8/25  | Introduction                 |                           |
-|      |        | R 8/27  | Python Review & Pseudocode   |  DSP Ch. 2 (review)       |
+| Week | Link         | Date    | Topic                        | Reading and Assignments   |
+|:----:|:------------:|:-------:|:-----------------------------|:--------------------------|
+| 1    |              | T 8/25  | Introduction                 |                           |
+|      |  [Lec 01](assets/lectures/lecture1.pdf)      | R 8/27  | Python Review & Pseudocode   |  DSP Ch. 2 (review)       |
 | 2    |        | M 8/31  | Lab 00: Getting Started      |  Lab Assessment 00 Due    |
 |      |        | T 9/1   | Object Oriented Programming  |  DSP Ch. 3                |
 |      |        | R 9/3   | Software Testing             |  DSP Ch. 4                |
