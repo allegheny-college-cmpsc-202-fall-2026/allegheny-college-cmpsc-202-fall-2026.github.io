@@ -11,9 +11,9 @@ description: A listing of all the course staff members.
   <h3><a href="https://bcmullins.github.io">Brett Mullins</a></h3>
   <strong>Office:</strong> Alden 106 <br/>
   <strong>Email:</strong> bmullins@allegheny.edu <br/>
-  <strong>Office Hours:</strong> By Appointment 
+  <strong>Office Hours:</strong> Tuesdays 12pm to 4pm & Fridays 11am to 1pm <br/>
+  Book a 15 minute appointment using <a href="https://calendar.app.google/5t3kEHJjREPN2vcQ9">this link</a>.
 </div>
-
 <br/>
 
 ## Technical Leaders
