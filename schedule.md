@@ -11,7 +11,7 @@ description: An overview of our course schedule.
 |:----:|:------------:|:-------:|:-----------------------------|:--------------------------|
 | 1    |              | T 8/25  | Introduction                 |                           |
 |      |  [Lec 01](assets/lectures/lecture1.pdf)      | R 8/27  | Python Review & Pseudocode   |  DSP Ch. 2 (review)       |
-| 2    |        | M 8/31  | Lab 00: Getting Started      |  Lab Assessment 00 Due    |
+| 2    |  [Lab 00](https://github.com/allegheny-college-cmpsc-202-fall-2026/lab00)      | M 8/31  | Lab 00: Getting Started      |  Lab Assessment 00 Due    |
 |      |        | T 9/1   | Object Oriented Programming  |  DSP Ch. 3                |
 |      |        | R 9/3   | Software Testing             |  DSP Ch. 4                |
 | 3    |        | M 9/7   | No lab  (Labor Day)          |                           |
