@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 description: Details about course projects.
+mathjax: true
 ---
 
 # Algorithm Design Projects
@@ -14,8 +15,9 @@ The first two deliverables are graded based on **effort and completion**. The fi
 
 Your team will collaborate throughout the project cycle, contributing to each deliverable and participating in discussions to refine your approach. Each team member should lead at least one deliverable for the project. On each of your submissions, note the contributions of each team member. 
 
-[Project 1 Topics]()
+[Project 1 Topics](https://docs.google.com/document/d/1pTKetb_EuZRGcA39BaDLchRSRRrMXAxWEI9UJK41JOU/edit?usp=sharing)
 
+You should maintain your project files and documentation in a GitHub repository. Make sure to commit regularly and provide clear commit messages to track your progress effectively. On the due date for each deliverable, I will review your repository to assess your progress and provide feedback.
 
 ---
 
@@ -28,10 +30,10 @@ Before writing any code, your team must formalize the problem and design a theor
 **Tasks:**
 1. **Problem Formulation:** Break down the project prompt. Clearly define the input parameters, expected outputs, and constraints.
 2. **Algorithmic Strategy:** Select an appropriate design paradigm (e.g., divide-and-conquer, dynamic programming, greedy). Write detailed pseudocode for your proposed solution.
-3. **Baseline Solutions:** Implement a simple algorithm that solves the problem to serve as a reference point for performance comparisons.
+3. **Baseline Solutions:** Design a simple algorithm that solves the problem to serve as a reference point for performance comparisons.
 4. **Complexity Analysis:** Establish the theoretical running time bounds ($O$, $\Omega$, or $\Theta$). Provide mathematical justification for your claims.
 
-**Submission:** A concise PDF document detailing the formulation, pseudocode, and mathematical analysis.
+**Submission:** A concise writeup detailing the formulation, pseudocode, and mathematical analysis in a file called `planning.md`.
 
 ---
 
@@ -46,7 +48,7 @@ In this phase, you will translate your theoretical design into a functional, mea
 2. **Testing Suite:** Develop comprehensive test cases. Ensure you code works as intended.
 3. **Benchmarking Script:** Empirically measure the running time of your baseline and proposed algorithm as the input size scales.
 
-**Submission:** Source code, test scripts, and a summary of your empirical evaluation.
+**Submission:** Source code, test scripts, and a summary of your empirical evaluation in a file called `evaluation.md`.
 
 ---
 
@@ -61,7 +63,7 @@ This is the capstone report for your project, combining your theoretical expecta
 2. **Baseline Comparison:** Compare your proposed algorithm's performance against the baseline. Discuss any improvements or regressions observed in your empirical evaluation.
 3. **Reflection:** Write a reflection on your team's design and debugging process. Discuss any two-stage submission improvements made from earlier weeks. Be specific about your challenges: detail specific structural pivots your team had to make, or debugging moments that led to critical breakthroughs.
 
-**Submission:** A finalized PDF report including the description of the problem, visualizations, analysis, and reflection.
+**Submission:** A finalized writeup including the description of the problem, visualizations, analysis, and reflection in a file called `findings.md`.
 
 ---
 
@@ -76,4 +78,4 @@ Your team will give a presentation detailing your problem, approach, and results
 2. **Conciseness:** Limit the presentation to 7 to 10 minutes. Avoid unnecessary details and focus on delivering a clear and coherent narrative.
 3. **Q&A Defense:** Prepare to field technical questions from your peers and the teaching staff.
 
-**Submission:** Presentation slide deck.
+**Submission:** Giving the presentation.
