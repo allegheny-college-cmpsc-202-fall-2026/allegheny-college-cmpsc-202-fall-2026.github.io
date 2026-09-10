@@ -16,7 +16,7 @@ description: An overview of our course schedule.
 |      |  [Lec 03](assets/lectures/lecture03.pdf)      | R 9/3   | Software Testing             |  DSP Ch. 4                |
 | 3    |        | M 9/7   | No lab  (Labor Day)          |                           |
 |      |  [Lec 04](assets/lectures/lecture04.pdf)  | T 9/8   | Greedy Algorithms            |                           |
-|      |        | R 9/10  | Empirical Running Time       |  DSP Ch. 5.1-5.3          |
+|      |  [Lec 05](assets/lectures/lecture05.pdf)      | R 9/10  | Empirical Running Time       |  DSP Ch. 5.1-5.3          |
 | 4    |        | M 9/14  | Lab 01: Benchmarking Algorithms | Lab Exercise & Assessment 01 Due   |
 |      |        | T 9/15  | Theoretical Running Time     |  DSP 5.4-5.10             |
 |      |        | R 9/17  | Theoretical Running Time     |                           |
