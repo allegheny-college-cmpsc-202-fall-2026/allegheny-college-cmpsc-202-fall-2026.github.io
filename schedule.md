@@ -19,7 +19,7 @@ description: An overview of our course schedule.
 |      |  [Lec 05](assets/lectures/lecture05.pdf)      | R 9/10  | Empirical Running Time       |  DSP Ch. 5.1-5.3          |
 | 4    |  [Lab 01](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab01)      | M 9/14  | Lab 01: Benchmarking Algorithms |    |
 |      |  [Lec 06](assets/lectures/lecture06.pdf)      | T 9/15  | Theoretical Running Time     |  DSP 5.4-5.10             |
-|      |  [Lec 07](assets/lectures/lecture07.pdf)      | R 9/17  | Theoretical Running Time     |                           |
+|      |  [Lec 07](assets/lectures/lecture07.pdf) <br/> [Big-O Practice](assets/problems/bigO.pdf)      | R 9/17  | Theoretical Running Time     |                          |
 |      |        | F 9/18  |                              |  Lab Exercise & Assessment 01 Due   |
 | 5    | [Lab 02](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab02)       | M 9/21  | Lab 02: Big-O Notation       |  Lab Exercise & Assessment 02 Due |
 |      | [Lec 08](assets/lectures/lecture08.pdf)       | T 9/22  | Theoretical Running Time     |                           |

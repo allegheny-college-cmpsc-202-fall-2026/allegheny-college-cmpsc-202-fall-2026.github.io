@@ -13,6 +13,8 @@ Each project spans a **four-week cycle**, designed to take you through the compl
 
 The first two deliverables are graded based on **effort and completion**. The final two deliverables, which represent the polished outcome of your work, are graded on **correctness**, **depth of analysis**, and **effectiveness of communication**.
 
+Here is an [example project](https://github.com/allegheny-college-cmpsc-202-fall-2026/example_project) to illustrate the typical workflow and expectations for each deliverable.
+
 Your team will collaborate throughout the project cycle, contributing to each deliverable and participating in discussions to refine your approach. Each team member should lead at least one deliverable for the project. On each of your submissions, note the contributions of each team member. 
 
 [Project 1 Topics](https://docs.google.com/document/d/1pTKetb_EuZRGcA39BaDLchRSRRrMXAxWEI9UJK41JOU/edit?usp=sharing)
