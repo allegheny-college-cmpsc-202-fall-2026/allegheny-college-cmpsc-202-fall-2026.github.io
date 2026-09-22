@@ -22,7 +22,7 @@ description: An overview of our course schedule.
 |      |  [Lec 07](assets/lectures/lecture07.pdf)      | R 9/17  | Theoretical Running Time     |                           |
 |      |        | F 9/18  |                              |  Lab Exercise & Assessment 01 Due   |
 | 5    | [Lab 02](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab02)       | M 9/21  | Lab 02: Big-O Notation       |  Lab Exercise & Assessment 02 Due |
-|      |        | T 9/22  | Theoretical Running Time     |                           |
+|      | [Lec 08](assets/lectures/lecture08.pdf)       | T 9/22  | Theoretical Running Time     |                           |
 |      |        | R 9/24  | Stacks & Queues              |  DSP Ch. 6                |
 |      |        | F 9/25  |                              |  Project 1 P&A Due |
 | 6    |        | M 9/28  | Lab 03: Stacks & Queues      | Lab Exercise & Assessment 03 Due |
