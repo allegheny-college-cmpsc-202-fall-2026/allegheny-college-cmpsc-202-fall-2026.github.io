@@ -25,7 +25,7 @@ description: An overview of our course schedule.
 |      | [Lec 08](assets/lectures/lecture08.pdf)       | T 9/22  | Theoretical Running Time     |                           |
 |      | [Lec 09](assets/lectures/lecture09.pdf)       | R 9/24  | Stacks & Queues              |  DSP Ch. 6                |
 |      |        | F 9/25  |                              |  Project 1 P&A Due |
-| 6    |        | M 9/28  | Lab 03: Stacks & Queues      | Lab Exercise & Assessment 03 Due |
+| 6    | [Lab 03](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab03)       | M 9/28  | Lab 03: Asymptotic Analysis      | Lab Exercise & Assessment 03 Due |
 |      |        | T 9/29   | Graphs                      |  DSP Ch. 20                |
 |      |        | R 10/1   | Graphs                      |  DSP Ch. 21                         |
 |      |        | F 10/2   |                             | Project 1 Evaluation Due             |
