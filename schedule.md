@@ -26,16 +26,16 @@ description: An overview of our course schedule.
 |      | [Lec 09](assets/lectures/lecture09.pdf)       | R 9/24  | Stacks & Queues              |  DSP Ch. 6                |
 |      |        | F 9/25  |                              |  Project 1 P&A Due |
 | 6    | [Lab 03](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab03)       | M 9/28  | Lab 03: Asymptotic Analysis      | Lab Exercise & Assessment 03 Due |
-|      |        | T 9/29   | Graphs                      |  DSP Ch. 20                |
-|      |        | R 10/1   | Graphs                      |  DSP Ch. 21                         |
+|      | [Lec 10](assets/lectures/lecture10.pdf)       | T 9/29   | Linked Lists                      |  DSP Ch. 7                |
+|      |        | R 10/1   | Linked Lists                      |                           |
 |      |        | F 10/2   |                             | Project 1 Evaluation Due             |
-| 7    |        | M 10/5   | Lab 04: Dijkstra's algorithm | Lab Exercise & Assessment 04 Due     |
+| 7    |        | M 10/5   | Lab 04: Midterm Review | Lab Exercise & Assessment 04 Due     |
 |      |        | T 10/6  | Midterm Exam                 |                           |
 |      |        | R 10/8  | No class (Fall Break)        |                           |
-| 8    |        | M 10/12  | Project 1 Presentations     |  Project 1 Report due @ 2:30pm   |
-|      |        | T 10/13  | Linked Lists                |    DSP Ch. 7              |
-|      |        | R 10/15  | Linked Lists                |    DSP Ch. 8              |
-| 9    |        | M 10/19  | Lab 05: Linked Lists        | Lab Exercise & Assessment 05 Due |
+| 8    |        | M 10/12  | Project 1 Presentations     |  Project 1 Report due @ 11:59pm   |
+|      |        | T 10/13  | Graphs                |    DSP Ch. 20              |
+|      |        | R 10/15  | Graphs                |    DSP Ch. 21              |
+| 9    |        | M 10/19  | Lab 05: Dijkstra's algorithm        | Lab Exercise & Assessment 05 Due |
 |      |        | T 10/20  | Recursion                   |    DSP Ch. 9              |
 |      |        | R 10/22  | Dynamic Programming         |    DSP Ch. 10              |
 |      |        | F 10/23  |                             |  Project 2 Proposal Due               |
