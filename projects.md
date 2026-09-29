@@ -49,7 +49,7 @@ In this phase, you will translate your theoretical design into a functional, mea
 1. **Code Implementation:** Translate your pseudocode into functional, well-documented code.
 2. **Testing Suite:** Develop comprehensive test cases. Ensure you code works as intended.
 3. **Benchmarking Script:** Empirically measure the running time of your baseline and proposed algorithm as the input size scales.
-4. **Performance Analysis:** Analyze the empirical results and compare them with your theoretical expectations. Discuss any deviations and potential reasons for them.
+4. **Communicate Findings:** Produce a concise report summarizing your implementation, testing, benchmarking, and results.
 
 **Submission:** Source code, test scripts, and a summary of your empirical evaluation in a file called `evaluation.md`.
 
