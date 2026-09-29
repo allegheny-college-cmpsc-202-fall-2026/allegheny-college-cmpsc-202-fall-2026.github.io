@@ -30,7 +30,7 @@ description: An overview of our course schedule.
 |      |        | R 10/1   | Linked Lists                      |                           |
 |      |        | F 10/2   |                             | Project 1 Evaluation Due             |
 | 7    |        | M 10/5   | Lab 04: Midterm Review | Lab Exercise & Assessment 04 Due     |
-|      |        | T 10/6  | Midterm Exam                 |                           |
+|      | [Study Guide](https://docs.google.com/document/d/1XNiqFVZhJlEDIAcXC3szkTetN68GQNyj9aXiX74PLuE/edit?tab=t.0#heading=h.6t7a49ehzibe)       | T 10/6  | Midterm Exam                 |                           |
 |      |        | R 10/8  | No class (Fall Break)        |                           |
 | 8    |        | M 10/12  | Project 1 Presentations     |  Project 1 Report due @ 11:59pm   |
 |      |        | T 10/13  | Graphs                |    DSP Ch. 20              |
