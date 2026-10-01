@@ -27,7 +27,7 @@ description: An overview of our course schedule.
 |      |        | F 9/25  |                              |  Project 1 P&A Due |
 | 6    | [Lab 03](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab03)       | M 9/28  | Lab 03: Asymptotic Analysis      | Lab Exercise & Assessment 03 Due |
 |      | [Lec 10](assets/lectures/lecture10.pdf)       | T 9/29   | Linked Lists                      |  DSP Ch. 7                |
-|      |        | R 10/1   | Linked Lists                      |                           |
+|      | [Lec 11](assets/lectures/lecture11.pdf)       | R 10/1   | Linked Lists                      |                           |
 |      |        | F 10/2   |                             | Project 1 Evaluation Due             |
 | 7    |        | M 10/5   | Lab 04: Midterm Review | Lab Exercise & Assessment 04 Due     |
 |      | [Study Guide](https://docs.google.com/document/d/1XNiqFVZhJlEDIAcXC3szkTetN68GQNyj9aXiX74PLuE/edit?tab=t.0#heading=h.6t7a49ehzibe)       | T 10/6  | Midterm Exam                 |                           |
