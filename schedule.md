@@ -32,7 +32,7 @@ description: An overview of our course schedule.
 | 7    |  [Lab 04](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab04)      | M 10/5   | Lab 04: Midterm Review | Lab Exercise & Assessment 04 Due     |
 |      | [Study Guide](https://docs.google.com/document/d/1XNiqFVZhJlEDIAcXC3szkTetN68GQNyj9aXiX74PLuE/edit?tab=t.0#heading=h.6t7a49ehzibe)       | T 10/6  | Midterm Exam                 |                           |
 |      |        | R 10/8  | No class (Fall Break)        |                           |
-| 8    |        | M 10/12  | Lab 05: Intro to Graphs     |    |
+| 8    | [Lab 05](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab05)       | M 10/12  | Lab 05: Intro to Graphs     |    |
 |      |        | T 10/13  | Graphs                |    DSP Ch. 20              |
 |      |        | R 10/15  | Graphs                |    DSP Ch. 21              |
 | 9    |        | M 10/19  | Project 1 Presentations       | Project 1 Report due @ 11:59pm |
