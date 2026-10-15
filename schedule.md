@@ -34,7 +34,7 @@ description: An overview of our course schedule.
 |      |        | R 10/8  | No class (Fall Break)        |                           |
 | 8    | [Lab 05](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab05)       | M 10/12  | Lab 05: Intro to Graphs     |    |
 |      | [Lec 12](assets/lectures/lecture12.pdf)       | T 10/13  | Graphs                |    DSP Ch. 20              |
-|      |        | R 10/15  | Graphs                |    DSP Ch. 21              |
+|      | [Lec 13](assets/lectures/lecture13.pdf)       | R 10/15  | Graphs                |    DSP Ch. 21              |
 | 9    |        | M 10/19  | Project 1 Presentations       | Project 1 Report due @ 11:59pm |
 |      |        | T 10/20  | Recursion                   |    DSP Ch. 9              |
 |      |        | R 10/22  | Dynamic Programming         |    DSP Ch. 10              |
