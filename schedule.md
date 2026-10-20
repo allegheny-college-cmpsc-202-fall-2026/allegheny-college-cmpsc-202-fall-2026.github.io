@@ -36,7 +36,7 @@ description: An overview of our course schedule.
 |      | [Lec 12](assets/lectures/lecture12.pdf)       | T 10/13  | Graphs                |    DSP Ch. 20              |
 |      | [Lec 13](assets/lectures/lecture13.pdf)       | R 10/15  | Graphs                |    DSP Ch. 21              |
 | 9    |        | M 10/19  | Project 1 Presentations       | Project 1 Report due @ 11:59pm |
-|      |        | T 10/20  | Recursion                   |    DSP Ch. 9              |
+|      | [Lec 14](assets/lectures/lecture14.pdf)       | T 10/20  | Recursion                   |    DSP Ch. 9              |
 |      |        | R 10/22  | Dynamic Programming         |    DSP Ch. 10              |
 |      |        | F 10/23  |                             |                 |
 | 10   |        | M 10/26  | Lab 06: Recursion           | Lab Exercise & Assessment 06 Due |
