@@ -17,7 +17,7 @@ Here is an [example project](https://github.com/allegheny-college-cmpsc-202-fall
 
 Your team will collaborate throughout the project cycle, contributing to each deliverable and participating in discussions to refine your approach. Each team member should lead at least one deliverable for the project. On each of your submissions, note the contributions of each team member. 
 
-[Project 1 Topics](https://docs.google.com/document/d/1pTKetb_EuZRGcA39BaDLchRSRRrMXAxWEI9UJK41JOU/edit?usp=sharing)
+[Project 1 Topics](https://docs.google.com/document/d/1pTKetb_EuZRGcA39BaDLchRSRRrMXAxWEI9UJK41JOU/edit?usp=sharing) - [Project 1 Survey](https://forms.gle/CYo2VPAJEMJ9HsVEA)
 
 You should maintain your project files and documentation in a GitHub repository. Make sure to commit regularly and provide clear commit messages to track your progress effectively. On the due date for each deliverable, I will review your repository to assess your progress and provide feedback.
 
