@@ -39,7 +39,7 @@ description: An overview of our course schedule.
 |      | [Lec 14](assets/lectures/lecture14.pdf)       | T 10/20  | Recursion                   |    DSP Ch. 9              |
 |      | [Lec 15](assets/lectures/lecture15.pdf)       | R 10/22  | Dynamic Programming         |    DSP Ch. 10              |
 |      |        | F 10/23  |                             |                 |
-| 10   |        | M 10/26  | Lab 06: Recursion           | Lab Exercise & Assessment 06 Due |
+| 10   |        | M 10/26  | [Lab 06: Recursion](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab06)           | Lab Exercise & Assessment 06 Due |
 |      | [Lec 16](assets/lectures/lecture16.pdf)      | T 10/27  | Dynamic Programming         |                           |
 |      |        | R 10/29  | Dynamic Programming         |                           |
 |      |        | F 10/30  |                             |                |
