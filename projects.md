@@ -19,6 +19,8 @@ Your team will collaborate throughout the project cycle, contributing to each de
 
 [Project 1 Topics](https://docs.google.com/document/d/1pTKetb_EuZRGcA39BaDLchRSRRrMXAxWEI9UJK41JOU/edit?usp=sharing) - [Project 1 Survey](https://forms.gle/CYo2VPAJEMJ9HsVEA)
 
+[Project 2 Teams & Topics](https://docs.google.com/document/d/1TJjMv-PFMv2ejREGct2jnMlxr6TPMgIZxbKprrpZkdI/edit?usp=sharing)
+
 You should maintain your project files and documentation in a GitHub repository. Make sure to commit regularly and provide clear commit messages to track your progress effectively. On the due date for each deliverable, I will review your repository to assess your progress and provide feedback.
 
 ---
