@@ -43,7 +43,7 @@ description: An overview of our course schedule.
 |      | [Lec 16](assets/lectures/lecture16.pdf)      | T 10/27  | Dynamic Programming         |                           |
 |      | [Lec 17](assets/lectures/lecture17.pdf)       | R 10/29  | Dynamic Programming         |                           |
 |      |        | F 10/30  |                             |                |
-| 11   |        | M 11/2   | Lab 07: Dynamic Programming | Lab Exercise & Assessment 07 Due |
+| 11   | [Lab 07](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab07)       | M 11/2   | Lab 07: Dynamic Programming | Lab Exercise & Assessment 07 Due |
 |      |        | T 11/3   | Search Algorithms           |  DSP Ch. 11               |
 |      |        | R 11/5   | Sorting Algorithms          |  DSP Ch. 12               |
 |      |        | F 11/6   |                             |              |
