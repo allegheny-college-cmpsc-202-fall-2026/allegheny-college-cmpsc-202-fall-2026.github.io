@@ -44,14 +44,14 @@ description: An overview of our course schedule.
 |      | [Lec 17](assets/lectures/lecture17.pdf)       | R 10/29  | Dynamic Programming         |                           |
 |      |        | F 10/30  |                             |                |
 | 11   | [Lab 07](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab07)       | M 11/2   | Lab 07: Dynamic Programming | Lab Exercise & Assessment 07 Due |
-|      |        | T 11/3   | Search Algorithms           |  DSP Ch. 11               |
+|      |        | T 11/3   | No class (election day)           |                 |
 |      | [Lec 18](assets/lectures/lecture18.pdf)       | R 11/5   | Sorting Algorithms          |  DSP Ch. 12               |
 |      |        | F 11/6   |                             |              |
 | 12   |        | M 11/9   | Lab 08: Dijkstra's Algorithm    |                          |
 |      |        | T 11/10  | Sorting Algorithms          |  DSP Ch. 13               |
-|      |        | R 11/12  | Hash Tables                 |  DSP Ch. 15               |
+|      |        | R 11/12  | Divide & Conquer Algorithms    |                 |
 |      |        | F 11/13  |                             |  Project 2 Proposal Due               |
-| 13   |        | M 11/16  | Lab 09: Search & Sort       |   Lab Exercise & Assessment 08 Due                         |
+| 13   |        | M 11/16  | Lab 09: Divide & Conquer       |   Lab Exercise & Assessment 08 Due                         |
 |      |        | T 11/17  | Trees                       |  DSP Ch. 16               |
 |      |        | R 11/19  | Trees                       |  DSP Ch. 17, 18           |
 |      |        | F 11/20  |                             |  Project 2 Evaluation Due              |
