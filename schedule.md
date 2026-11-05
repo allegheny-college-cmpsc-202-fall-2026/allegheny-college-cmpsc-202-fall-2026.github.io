@@ -45,7 +45,7 @@ description: An overview of our course schedule.
 |      |        | F 10/30  |                             |                |
 | 11   | [Lab 07](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab07)       | M 11/2   | Lab 07: Dynamic Programming | Lab Exercise & Assessment 07 Due |
 |      |        | T 11/3   | Search Algorithms           |  DSP Ch. 11               |
-|      |        | R 11/5   | Sorting Algorithms          |  DSP Ch. 12               |
+|      | [Lec 18](assets/lectures/lecture18.pdf)       | R 11/5   | Sorting Algorithms          |  DSP Ch. 12               |
 |      |        | F 11/6   |                             |              |
 | 12   |        | M 11/9   | Lab 08: Dijkstra's Algorithm    |                          |
 |      |        | T 11/10  | Sorting Algorithms          |  DSP Ch. 13               |
