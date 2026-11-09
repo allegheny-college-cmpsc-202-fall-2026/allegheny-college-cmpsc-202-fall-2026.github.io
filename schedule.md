@@ -47,7 +47,7 @@ description: An overview of our course schedule.
 |      |        | T 11/3   | No class (election day)           |                 |
 |      | [Lec 18](assets/lectures/lecture18.pdf)       | R 11/5   | Sorting Algorithms          |  DSP Ch. 12               |
 |      |        | F 11/6   |                             |              |
-| 12   |        | M 11/9   | Lab 08: Dijkstra's Algorithm    |                          |
+| 12   | [Lab 08](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab08)       | M 11/9   | Lab 08: Dijkstra's Algorithm    |                          |
 |      |        | T 11/10  | Sorting Algorithms          |  DSP Ch. 13               |
 |      |        | R 11/12  | Divide & Conquer Algorithms    |                 |
 |      |        | F 11/13  |                             |  Project 2 Proposal Due               |
