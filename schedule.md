@@ -51,7 +51,7 @@ description: An overview of our course schedule.
 |      | [Lec 19](assets/lectures/lecture19.pdf)       | T 11/10  | Merge Sort          |  DSP Ch. 13               |
 |      | [Lec 20](assets/lectures/lecture20.pdf)       | R 11/12  | Divide & Conquer Algorithms    |                 |
 |      |        | F 11/13  |                             |  Project 2 Proposal Due               |
-| 13   |        | M 11/16  | Lab 09: Divide & Conquer       |   Lab Exercise & Assessment 08 Due                         |
+| 13   | [Lab 09](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab09)       | M 11/16  | Lab 09: Divide & Conquer       |   Lab Exercise & Assessment 08 Due                         |
 |      |        | T 11/17  | Trees                       |  DSP Ch. 16               |
 |      |        | R 11/19  | Trees                       |  DSP Ch. 17, 18           |
 |      |        | F 11/20  |                             |  Project 2 Evaluation Due              |
