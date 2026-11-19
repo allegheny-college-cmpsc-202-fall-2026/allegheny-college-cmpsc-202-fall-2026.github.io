@@ -53,10 +53,10 @@ description: An overview of our course schedule.
 |      |        | F 11/13  |                             |  Project 2 Proposal Due               |
 | 13   | [Lab 09](https://github.com/allegheny-college-cmpsc-202-fall-2026/cmpsc202-lab09)       | M 11/16  | Lab 09: Divide & Conquer       |   Lab Exercise & Assessment 08 Due                         |
 |      | [Lec 21](assets/lectures/lecture21.pdf)       | T 11/17  | MSTs                       |  DSP Ch. 16               |
-|      |        | R 11/19  | Trees                       |  DSP Ch. 17, 18           |
+|      | [Lec 22](assets/lectures/lecture22.pdf)       | R 11/19  | Heaps                       |  DSP Ch. 17, 18           |
 |      |        | F 11/20  |                             |  Project 2 Evaluation Due              |
-| 14   |        | M 11/23  | Lab 10: Trees               |   Lab Exercise & Assessment 09 Due                         |
-|      |        | T 11/24  | Priority Queues             |  DSP Ch. 19               |
+| 14   |        | M 11/23  | Lab 10: Heaps               |   Lab Exercise & Assessment 09 Due        `                 |
+|      |        | T 11/24  | Maps             |                 |
 |      |        | R 11/26  | No class (Thanksgiving)     |                           |
 | 15   |        | M 11/30  | Project 3 Workshop          |                           |
 |      |        | T 12/1   | Project 3 Presentations     |                           | 
